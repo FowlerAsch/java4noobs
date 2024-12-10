@@ -4,7 +4,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" width="120">
 </h1>
 
-<p align="center">Tutorial De Java para iniciantes na Linguagem.</p>
+## Introdução: </>
+<p align="center">Este repositório foi forkado para utilizar e guardar tudo o que aprendi na teoria sobre o desenvolvimento em Java. Além disso, também tem como foco ajudar aqueles que desejam iniciar o aprendizado na linguagem Java, oferecendo como base um RoadMap e conteúdos teóricos.
+
+I created this repository to keep everything I've learned about Java development theory. It's also designed to help anyone looking to start learning Java, featuring a RoadMap and some theoretical content. Unfortunately, only in Portuguese yet.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -13,6 +16,12 @@
 </p>
 
 ## ROADMAP
+
+<ul>
+  <li>🐙 <a href="https://roadmap.sh/java" target="_blank">Java Roadmap</a></li>
+  <li>⚡ <a href="https://roadmap.sh/backend" target="_blank">Backend Development Roadmap</a></li>
+  <li>🌱 <a href="https://roadmap.sh/spring-boot" target="_blank">Spring Boot Roadmap</a></li>
+</ul>
 
 ### Introdução
 
